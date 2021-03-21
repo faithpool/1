@@ -1,1 +1,7 @@
-test
+{
+  "name": "Faith",
+  "ticker": "FAITH",
+  "description": "Have Faith In Cardano",
+  "homepage": "https://github.com/faithpool/1/blob/main/poolmeta.json",
+  "nonce": "1616296856"
+}
